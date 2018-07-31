@@ -1,6 +1,4 @@
-# Project Title
-
-Spring Boot with ssl
+# Spring Starter SSL
 
 ## Getting Started
 
