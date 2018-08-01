@@ -46,6 +46,8 @@ Run the application with the new port using https
 https://localhost:8443/welcome
 ```
 
+Add the webContainerConfig configuration file to automatically redirect to https port 8443
+
 ## Acknowledgments
 
 * Open Source community
