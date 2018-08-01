@@ -1,4 +1,4 @@
-# Spring Starter SSL
+# Spring starter ssl
 
 ## Getting Started
 
@@ -45,11 +45,6 @@ Run the application with the new port using https
 ```
 https://localhost:8443/welcome
 ```
-To redirect automatically to the new https port 8443 add the Configuration file WebContainerConfig
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
